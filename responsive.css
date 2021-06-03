@@ -1,0 +1,162 @@
+@media (max-width:900px){
+    .col-2 {
+        flex-basis: 100%;
+        margin-bottom: 40px;
+    }
+    .col-2 h1 {
+        font-size: 40px;
+    }
+    .col-2 p {
+        font-size: 18px;
+    }
+    .col-3 {
+        flex-basis: 100%;
+        max-width: 460px;
+    }
+    .col-4 {
+        flex-basis: 100%;
+        max-width: 757px;
+        text-align: left;
+        margin-bottom: 20px;
+    }
+    .team-about h1 {
+        font-size: 40px;
+    }
+    .team-about p {
+        font-size: 18px;
+    }
+    .team-pic {
+        flex-basis: 100%;
+        max-width: 470px;
+    }
+    .team-jurney h1 {
+        font-size: 40px;
+    }
+    .sov-3 {
+        flex-basis: 73%;
+        max-width: 470px;
+        margin-bottom: 50px;
+    }
+    .sov-opportunuty {
+        width: 400px;
+    }
+    .title-center h1 {
+        font-size: 40px;
+    }
+    .title h1 {
+        font-size: 40px;
+       
+    }
+    .title p {
+        font-size: 18px;
+    }
+    .member-bio {
+        width: 100%;
+    }
+    .moment-pic {
+        flex-basis: 100%;
+        max-width: 470px;
+    }
+   
+
+}
+
+@media (max-width:768px){
+    .col-4 {
+        flex-basis: 100%;
+        max-width: 757px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .title h1 {
+        font-size: 25px;
+    }
+    .title p {
+        font-size: 15px;
+    }
+    .link a {
+        font-size: 16px;
+    }
+    .link {
+        padding: 10px;
+    }
+    .col-2 h1 {
+        font-size: 25px;
+    }
+    .col-2 p {
+        font-size: 15px;
+    }
+    .center h1 {
+        font-size: 25px;
+    }
+    .center p {
+        font-size: 15px;
+    }
+    .center button {
+        padding: 10px 14px;
+        font-size: 15px;
+    }
+    .team-about h1 {
+        font-size: 25px;
+    }
+    .team-about p {
+        font-size: 15px;
+    }
+    .team-jurney h1 {
+        font-size: 25px;
+    }
+    .sov-3 p {
+        font-size: 15px;
+    }
+    .title-center h1 {
+        font-size: 25px;
+    }
+    .member-bio h1 {
+        font-size: 20px;
+    }
+    .title-center {
+        padding: 0px 0px;
+    }
+    .col-2 a {
+        padding: 10px 14px;
+        font-size: 15px;
+    }
+    .contact-box-model {
+        width: 500px;
+    }
+    label input {
+        width: 400px;
+    }
+    textarea {
+        width: 400px;
+    }
+    .submit-btn {
+        padding: 14px 28px;
+    }
+
+    nav ul {
+        width: 100%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        text-align: right;
+        overflow: hidden;
+        background-color: crimson;
+        color: #fff;
+        transition: max-height 1s;
+    }
+    nav ul li{
+        display: block;
+        margin-bottom: 20px;
+       
+    }
+    nav ul li a{
+        color: #fff;
+    }
+    .active{
+        color: #fff;
+    }
+    .menu-icon{
+        display: block;
+    }
+}
